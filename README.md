@@ -1,8 +1,5 @@
 ## Olá! Me chamo Victor
 
-- 🔭 Atualmente não trabalho em nada, busco oportunidade de algo enquanto faço alguns projetinhos meus para revisar conteudos que ja sei
-- 🌱 Estudo front-end e back-end
-- 📫 Contate-me no email: vitorsantos.vs358@gmail.com
 
 <div align="center">
   <a href="https://github.com/Japa121">
