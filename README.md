@@ -1,4 +1,6 @@
-## Olá! Me chamo Victor
+<p align="center">
+  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4D29F7&random=false&width=435&lines=Hi%2C+my+name+is+Victor;+and+I'm+a+game+developer)](https://git.io/typing-svg)" alt="Example Usage - README Typing SVG">
+</p>
 
 
 
