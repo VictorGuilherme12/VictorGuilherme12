@@ -18,9 +18,9 @@
   <img align="center" alt="Japa-Rider" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
   <img align="center" alt="Japa-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
-
+<br>
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japa121&layout=compact&langs_count=7&theme=radical"/>
+<img height="150em" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japa121&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
