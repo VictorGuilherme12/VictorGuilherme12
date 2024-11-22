@@ -20,14 +20,14 @@
 </div>
 <br>
 <div>
-<img height="150em" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japa121&layout=compact&langs_count=7&theme=radical"/>
+<img height="150em" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 
 
 ## Estatísticas do GitHub 📊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Japa121&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorGuilherme12&show_icons=true&theme=cobalt)
 
 <div>
 
