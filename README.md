@@ -21,12 +21,8 @@
    
 </div>
 <br>
-<div>
-<img height="150em" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&layout=compact&langs_count=7&theme=cobalt"/>
 
-
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Estatísticas do GitHub 📊
