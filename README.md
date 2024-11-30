@@ -1,4 +1,4 @@
-## Olá! Me chamo Victor 🖐🏻
+[## Olá! Me chamo Victor 🖐🏻
 
 [![Instaggram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vito0r___/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorguilhermesantos/)
@@ -22,7 +22,7 @@
 </div>
 </br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
 
 
 ## Estatísticas do GitHub 📊
@@ -66,3 +66,4 @@ Cada projeto é uma oportunidade para aprender algo novo, e estou sempre em busc
 
 •  Café, meu combustível: Não consigo imaginar um dia sem café. Ele me ajuda a focar e a dar aquele gás extra nas horas mais intensas de trabalho e estudo. É mais que uma bebida, é quase um ritual diário.
 
+](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12)
