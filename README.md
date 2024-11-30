@@ -20,7 +20,7 @@
   <img align="center" alt="Japa-TailWindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
    
 </div>
-<br>
+</br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
 
