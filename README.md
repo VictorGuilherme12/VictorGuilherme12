@@ -66,4 +66,4 @@ Cada projeto é uma oportunidade para aprender algo novo, e estou sempre em busc
 
 •  Café, meu combustível: Não consigo imaginar um dia sem café. Ele me ajuda a focar e a dar aquele gás extra nas horas mais intensas de trabalho e estudo. É mais que uma bebida, é quase um ritual diário.
 
-](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12)
+
