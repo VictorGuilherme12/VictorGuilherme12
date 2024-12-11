@@ -1,11 +1,11 @@
-## Olá! Me chamo Victor 🖐🏻
+## Hello! My Name is Victor 🖐🏻
 
-[![Instaggram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vito0r___/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vito0r___/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorguilhermesantos/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561197992661437/)
 
 
-## Tecnologias que utilizo no meu trabalho ⌨️
+## Technologies I Use in My Work ⌨️
 <div style="display: inline_block"><br>
   <img align="center" alt="Japa-Unity"src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img align="center" alt="Japa-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whiteg">
@@ -25,7 +25,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
 
 
-## Estatísticas do GitHub 📊
+## GitHub Statistics 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
 
@@ -36,34 +36,36 @@
 
   <div style="display: inline_block"></div>
 
-  ## Sobre Mim 👋🏻
+  ## About Me 👋🏻
   
-  Oi, sou Victor, um apaixonado por tecnologia que adora transformar ideias em projetos criativos e funcionais. Desde os 14 anos, tenho explorado o universo do desenvolvimento de jogos, sempre buscando aprender algo novo e criar experiências únicas.
+ Hi, I’m Victor, a technology enthusiast who loves turning ideas into creative and functional projects. Since the age of 14, I’ve been exploring the world of game development, always looking to learn something new and create unique experiences.
 
-Atualmente, também estou mergulhando no desenvolvimento web, expandindo minhas habilidades e explorando formas de unir diferentes áreas da programação. Para mim, programar é uma maneira incrível de juntar criatividade e técnica para tirar ideias do papel e dar vida a elas.
-
-<div style="display: inline_block"></div>
-
-
- ##  Minha Abordagem Tecnológica 🖥️
-
-Minha jornada no desenvolvimento de jogos é marcada pela paixão por criar experiências interativas e imersivas. Tenho experiência sólida na integração de UI, desenvolvendo interfaces intuitivas que não só são funcionais, mas também melhoram a experiência do jogador. No mundo multiplayer, utilizo o Photon para integrar funcionalidades de rede e criar jogos com suporte robusto para multiplayer, sempre buscando a melhor performance e experiência de usuário.
-
-Sou apaixonado por criar mecânicas de jogo envolventes e desafiadoras, trabalhando desde o design de movimentos até o balanceamento e interação de sistemas no jogo. Tenho experiência em diferentes motores de jogo, com foco principal em Unity e Unreal Engine, explorando suas potencialidades para trazer à vida mundos e jogabilidade única.
-
-Cada projeto é uma oportunidade para aprender algo novo, e estou sempre em busca de melhorar minhas habilidades para criar jogos cada vez mais inovadores e impactantes.
-
+Currently, I’m also diving into web development, expanding my skills and exploring ways to combine different programming areas. To me, programming is an incredible way to bring ideas to life, merging creativity and technical expertise.
 
 <div style="display: inline_block"></div>
 
-## Curiosidades 🎥
 
-•  Cinema é minha paixão: Sempre fui fascinado por filmes, e eles têm uma grande influência na minha forma de ver o mundo e de criar. Adoro como o cinema consegue contar histórias de uma maneira tão única e envolvente.
+ ##  My Technological Approach 🖥️
 
-•  Stanley Kubrick, meu diretor favorito: A forma como Kubrick cria atmosferas densas e desafiadoras me inspira demais. Sua atenção aos detalhes e seu estilo único fazem dele um dos maiores mestres da sétima arte, na minha opinião.
+My journey in game development is marked by a passion for creating interactive and immersive experiences. I have solid experience in UI integration, developing intuitive interfaces that are not only functional but also enhance the player’s experience.
 
-•  Jogos são uma parte de mim: Desde que me entendo por gente, sempre fui apaixonado por jogos. Não é só sobre jogar, mas sobre como eles conseguem contar histórias de forma interativa e criativa. Essa paixão é uma das razões que me levou a trabalhar com o desenvolvimento de jogos.
+In the multiplayer world, I use Photon to integrate network features and create games with robust multiplayer support, always seeking better performance and user experience.
 
-•  Café, meu combustível: Não consigo imaginar um dia sem café. Ele me ajuda a focar e a dar aquele gás extra nas horas mais intensas de trabalho e estudo. É mais que uma bebida, é quase um ritual diário.
+I’m passionate about creating engaging and challenging core gameplay mechanics, working from movement design to system balancing and interaction in games. I have experience with different game engines, with Unity and Unreal Engine being my main tools to bring vast worlds and unique gameplay to life.
+
+Every project is an opportunity to learn something new, and I’m always in search of improving my skills to create increasingly innovative and impactful games.
+
+
+<div style="display: inline_block"></div>
+
+## Fun Facts 🎥
+
+•  Cinema is my passion: I’ve always been fascinated by films, and they’ve greatly influenced how I view the world and creativity. I love how cinema manages to tell stories in such a unique and enveloping way.
+
+•  Stanley Kubrick, my favorite director: Kubrick’s ability to create dense and challenging atmospheres inspires me immensely. His attention to detail and unique style make him one of the greatest masters of the seventh art, in my opinion.
+
+•  Games are also part of me: Since I was very young, I’ve always been passionate about games. It’s not just about playing, but how games manage to tell stories in such an interactive and creative way. This passion is one of the reasons that led me to work with game development.
+
+•  Coffee, my fuel: I can’t imagine my day without a cup of coffee. It helps me focus and gives that extra energy during intense work and study hours. It’s more than a drink; it’s almost a daily ritual.
 
 
