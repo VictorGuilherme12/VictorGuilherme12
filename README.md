@@ -18,11 +18,15 @@
   <img align="center" alt="Japa-Rider" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
   <img align="center" alt="Japa-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="Japa-TailWindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+
+
    
 </div>
+
 </br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
+<img src="src/laptop.gif" alt="Descrição do GIF" width="300" height="250"/>
 
 
 ## GitHub Statistics 📊
