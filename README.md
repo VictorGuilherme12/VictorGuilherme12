@@ -25,8 +25,10 @@
 
 </br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
 <img src="src/laptop.gif" alt="Descrição do GIF" width="300" height="250"/>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
 
 
 ## GitHub Statistics 📊
