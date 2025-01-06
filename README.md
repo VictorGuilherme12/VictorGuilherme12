@@ -25,11 +25,10 @@
 
 </br>
 
-<img src="src/laptop.gif" alt="Descrição do GIF" width="300" height="250"/>
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
-
+<div align="center">
+  <img src="src/laptop.gif" alt="Descrição do GIF" width="300" height="250" style="display:inline-block; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="display:inline-block;"/>
+</div>
 
 ## GitHub Statistics 📊
 
