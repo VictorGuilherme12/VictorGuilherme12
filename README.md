@@ -29,8 +29,9 @@
 </br>
 
 <div style="display: flex; align-items: flex-start; justify-content: flex-start;">
-  <img src="src/laptop.gif" alt="Descrição do GIF" width="200" height="200" style="margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="300" height="200"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="src/laptop.gif" alt="Descrição do GIF" width="150" height="150"/>
+ 
   
 </div>
 
