@@ -4,9 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorguilhermesantos/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561197992661437/)
 
-<div>
-  <img src="https://apple-music-readme-tau.vercel.app/.vercel.app/?" width="200" height="200" style="margin-right: 10px;>
-</div>
 
 <div style="display: inline_block"></div>
 
@@ -34,7 +31,7 @@
 <div style="display: flex; align-items: flex-start; justify-content: flex-start;">
   <img src="src/laptop.gif" alt="Descrição do GIF" width="200" height="200" style="margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="300" height="200"/>
-  <img src="https://apple-music-readme-tau.vercel.app/.vercel.app/?" width="300" height="200" style="margin-right: 10px;>
+  <img src="https://apple-music-readme-tau.vercel.app/.vercel.app/?" width="300" height="300" style="margin-right: 10px;>
 </div>
 </div>
 
