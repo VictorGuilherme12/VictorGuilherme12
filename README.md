@@ -31,8 +31,7 @@
 <div style="display: flex; align-items: flex-start; justify-content: flex-start;">
   <img src="src/laptop.gif" alt="Descrição do GIF" width="200" height="200" style="margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="300" height="200"/>
-  <img src="https://apple-music-readme-tau.vercel.app/.vercel.app/?" width="300" height="300" style="margin-right: 10px;>
-</div>
+  
 </div>
 
 
@@ -84,6 +83,13 @@ Every project is an opportunity to learn something new, and I’m always in sear
 •  I’m a proud cat lover: Cats are just the best. Their mix of independence, curiosity, and affection never fails to brighten my day. I love their little quirks and how they always find a way to make life more interesting (and cozy).
 
 •  Coffee, my fuel: I can’t imagine my day without a cup of coffee. It helps me focus and gives that extra energy during intense work and study hours. It’s more than a drink; it’s almost a daily ritual.
+
+<div style="display: inline_block"></div>
+
+## Recently Listening To 🎵
+<div>
+  <img src="https://apple-music-readme-tau.vercel.app/.vercel.app/?" width="300" height="300">
+</div>
 
 
 
