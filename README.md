@@ -88,7 +88,7 @@ Every project is an opportunity to learn something new, and I’m always in sear
 
 ## Recently Listening To 🎵
 <div>
-  <img src="https://apple-music-readme-tau.vercel.app/.vercel.app/?" width="300" height="300">
+  <img src="https://apple-music-readme-tau.vercel.app/.vercel.app/?">
 </div>
 
 
