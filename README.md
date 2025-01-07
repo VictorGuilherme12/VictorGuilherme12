@@ -4,9 +4,15 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorguilhermesantos/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561197992661437/)
 
+<div>
+  <img src="https://apple-music-readme-tau.vercel.app/.vercel.app/?" width="200" height="200" style="margin-right: 10px;>
+</div>
+
+<div style="display: inline_block"></div>
+
 
 ## Technologies I Use in My Work ⌨️
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Japa-Unity"src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img align="center" alt="Japa-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=whiteg">
   <img align="center" alt="Japa-CPlusPlus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
@@ -26,9 +32,16 @@
 </br>
 
 <div style="display: flex; align-items: flex-start; justify-content: flex-start;">
-  <img src="src/laptop.gif" alt="Descrição do GIF" width="300" height="200" style="margin-right: 10px;"/>
+  <img src="src/laptop.gif" alt="Descrição do GIF" width="200" height="200" style="margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="300" height="200"/>
+  <img src="https://apple-music-readme-tau.vercel.app/.vercel.app/?" width="300" height="200" style="margin-right: 10px;>
 </div>
+</div>
+
+
+
+<div style="display: inline_block"></div>
+
 
 ## GitHub Statistics 📊
 
@@ -74,5 +87,8 @@ Every project is an opportunity to learn something new, and I’m always in sear
 •  I’m a proud cat lover: Cats are just the best. Their mix of independence, curiosity, and affection never fails to brighten my day. I love their little quirks and how they always find a way to make life more interesting (and cozy).
 
 •  Coffee, my fuel: I can’t imagine my day without a cup of coffee. It helps me focus and gives that extra energy during intense work and study hours. It’s more than a drink; it’s almost a daily ritual.
+
+
+
 
 
