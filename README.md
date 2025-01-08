@@ -62,19 +62,6 @@ I’m passionate about creating engaging and challenging core gameplay mechanics
 Every project is an opportunity to learn something new, and I’m always in search of improving my skills to create increasingly innovative and impactful games.
 
 
-<div style="display: inline_block"></div>
-
-## Fun Facts 🎥🐾
-
-•  Cinema is my passion: I’ve always been fascinated by films, and they’ve greatly influenced how I view the world and creativity. I love how cinema manages to tell stories in such a unique and enveloping way.
-
-•  Stanley Kubrick, my favorite director: Kubrick’s ability to create dense and challenging atmospheres inspires me immensely. His attention to detail and unique style make him one of the greatest masters of the seventh art, in my opinion.
-
-•  Games are also part of me: Since I was very young, I’ve always been passionate about games. It’s not just about playing, but how games manage to tell stories in such an interactive and creative way. This passion is one of the reasons that led me to work with game development.
-
-•  I’m a proud cat lover: Cats are just the best. Their mix of independence, curiosity, and affection never fails to brighten my day. I love their little quirks and how they always find a way to make life more interesting (and cozy).
-
-•  Coffee, my fuel: I can’t imagine my day without a cup of coffee. It helps me focus and gives that extra energy during intense work and study hours. It’s more than a drink; it’s almost a daily ritual.
 
 <div style="display: inline_block"></div>
 
