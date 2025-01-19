@@ -84,7 +84,7 @@ Every project is an opportunity to learn something new, and I’m always in sear
 
 <div style="display: inline_block"></div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=ReSize&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=ReSize&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
