@@ -30,9 +30,7 @@
 </div>
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&langs_count=8&theme=radical&icons=true&hide_border=true&count_private=true)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&langs_count=8&theme=radical&icons=true&hide_border=true&count_private=true">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorGuilherme12&theme=radical">
 
 
