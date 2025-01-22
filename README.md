@@ -31,7 +31,7 @@
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=radical&show_icons=true&hide_border=true&layout=compact">
+<img height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=radical&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 
@@ -45,10 +45,11 @@
 ## GitHub Statistics 📊
 
 <div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorGuilherme12&theme=radical">
- <img src="src/laptop.gif" alt="Descrição do GIF" width="300" height="200"/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorGuilherme12&theme=radical">
   
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorGuilherme12&theme=radical">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorGuilherme12&theme=radical">
+<img src="src/laptop.gif" alt="Descrição do GIF" width="300" height="200"/>
+
 </div>
 
 
@@ -90,6 +91,7 @@ Every project is an opportunity to learn something new, and I’m always in sear
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=ReSize&theme=radical&hide_border=true">
+   
 </div>
 
 
