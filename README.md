@@ -32,6 +32,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=radical&show_icons=true&hide_border=true&layout=compact">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorGuilherme12&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true">
+
+
+
 
 
 
