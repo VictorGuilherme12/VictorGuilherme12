@@ -30,7 +30,7 @@
 </div>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true">
+<img width="200px"src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true">
 <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=radical&show_icons=true&hide_border=true&layout=compact">
 </div>
 
