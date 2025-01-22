@@ -29,11 +29,10 @@
    
 </div>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=radical&show_icons=true&hide_border=true&layout=compact">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorGuilherme12&theme=radical">
+<div>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=radical&show_icons=true&hide_border=true&layout=compact">
+</div>
 
 
 
@@ -48,6 +47,7 @@
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorGuilherme12&theme=radical">
  <img src="src/laptop.gif" alt="Descrição do GIF" width="300" height="200"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorGuilherme12&theme=radical">
   
 </div>
 
