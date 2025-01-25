@@ -61,14 +61,6 @@ I’m passionate about creating engaging and challenging core gameplay mechanics
 Every project is an opportunity to learn something new, and I’m always in search of improving my skills to create increasingly innovative and impactful games.
 
 
-
-<div style="display: inline_block"></div>
-
-## Recently Listening To 🎵
-<div>
-  <img src="https://apple-music-readme-tau.vercel.app/.vercel.app/?">
-</div>
-
 <div style="display: inline_block"></div>
 
 ## My favorite projects 📌
