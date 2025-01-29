@@ -8,7 +8,7 @@
 
 ## Technologies I Use in My Work ⌨️
 
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,net,unreal,cpp,js,html,css,ts,py,react,tailwind,nextjs,nodejs,git,rider,vscode,visualstudio,postgres,postman&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,net,unreal,cpp,cmake,js,html,css,ts,py,react,tailwind,nextjs,nodejs,git,rider,vscode,visualstudio,postgres,postman,notion&perline=11)](https://skillicons.dev)
 
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
