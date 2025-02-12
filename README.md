@@ -66,7 +66,9 @@ Every project is an opportunity to learn something new, and I’m always in sear
 ## My favorite projects 📌
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=ReSize&theme=radical&hide_border=true">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=ReSize&theme=radical&hide_border=true">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=SplineCppClass&theme=radical&hide_border=true">
+
    
 </div>
 
