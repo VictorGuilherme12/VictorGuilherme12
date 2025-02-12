@@ -1,6 +1,7 @@
 ## Hello! My Name is Victor 🖐🏻
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vito0r___/)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victorguilhermesantos/)
+[![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/vito0r___/)
+[![Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/victorguilhermesantos/)
+[![Steam](https://go-skill-icons.vercel.app/api/icons?i=steam)](https://steamcommunity.com/id/Japa20/)
 
 
 <div style="display: inline_block"></div>
@@ -8,8 +9,7 @@
 
 
 ## Technologies I Use in My Work ⌨️
-
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,net,unreal,cpp,cmake,js,html,css,ts,py,react,tailwind,nextjs,nodejs,git,rider,vscode,visualstudio,postgres,postman,notion&perline=11)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity,cs,net,unreal,cpp,cmake,js,html,css,ts,py,react,tailwind,nextjs,nodejs,git,rider,vscode,visualstudio,postgres,postman,notion&perline=11)
 
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
