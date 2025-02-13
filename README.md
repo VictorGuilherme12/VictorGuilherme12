@@ -62,11 +62,11 @@ Every project is an opportunity to learn something new, and I’m always in sear
 
 <div style="display: flex; gap: 20px; align-items: center; justify-content: center;">
   <div style="flex: 1; display: flex; justify-content: center;">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=ReSize&theme=radical&">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=ReSize&theme=radical&">
   </div>
   <div style="width: 2px; height: 100%; background-color: white;"></div>
   <div style="flex: 1; display: flex; justify-content: center;">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=SplineCppClass&theme=radical&"> 
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=SplineCppClass&theme=radical&"> 
   </div>
 </div>
 
