@@ -18,11 +18,6 @@
 </div>
 
 
-
-
-
-
-
 <div style="display: inline_block"></div>
 
 
@@ -67,9 +62,7 @@ Every project is an opportunity to learn something new, and I’m always in sear
 
 <div>
   <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=ReSize&theme=radical&">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=SplineCppClass&theme=radical&">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=SplineCppClass&theme=radical&">
-      <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=SplineCppClass&theme=radical&">   
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=SplineCppClass&theme=radical&"> 
 </div>
 
 
