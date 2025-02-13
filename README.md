@@ -60,9 +60,9 @@ Every project is an opportunity to learn something new, and I’m always in sear
 
 ## My favorite projects 📌
 
-<div>
+<div style="display: flex; gap: 10px; align-items: center;">
   <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=ReSize&theme=radical&">
-  <img height="150"  width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=SplineCppClass&theme=radical&"> 
+  <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=SplineCppClass&theme=radical&"> 
 </div>
 
 
