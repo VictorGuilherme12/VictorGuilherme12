@@ -14,8 +14,8 @@
 
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+   <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=radical&show_icons=true&hide_border=true&layout=donut">
   <img width="400px"src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true">
-  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=radical&show_icons=true&hide_border=true&layout=donut">
 </div>
 
 
