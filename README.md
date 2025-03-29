@@ -8,7 +8,6 @@
 
 
 
-
 ## Technologies I Use in My Work ⌨️
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity,cs,net,unreal,cpp,cmake,js,html,css,ts,py,react,tailwind,nextjs,nodejs,git,rider,vscode,visualstudio,postgres,postman,notion&perline=11)
 
