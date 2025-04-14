@@ -15,7 +15,6 @@
   <img width="400px"src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true">
 </div>
 
-
 <div style="display: inline_block"></div>
 
 
