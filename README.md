@@ -9,7 +9,6 @@
 ## Technologies I Use in My Work ⌨️
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity,cs,net,unreal,cpp,cmake,js,html,css,ts,py,react,tailwind,nextjs,nodejs,git,rider,vscode,visualstudio,postgres,postman,notion&perline=11)
 
-
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
    <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=radical&show_icons=true&hide_border=true&layout=donut">
   <img width="400px"src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true">
