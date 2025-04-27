@@ -17,7 +17,6 @@
 <div style="display: inline_block"></div>
 
 
-
 ## GitHub Statistics 📊
 
 <div>
