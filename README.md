@@ -31,24 +31,28 @@
 
   <div style="display: inline_block"></div>
 
-  ## About Me 👋🏻
-  
- Hi, I’m Victor, a technology enthusiast who loves turning ideas into creative and functional projects. Since the age of 14, I’ve been exploring the world of game development, always looking to learn something new and create unique experiences.
+ ## About Me 👋🏻
 
-Currently, I’m also diving into web development, expanding my skills and exploring ways to combine different programming areas. To me, programming is an incredible way to bring ideas to life, merging creativity and technical expertise.
+Hi, I’m Victor, a game developer focused on **Unreal Engine (C++)** and **Unity (C#)**. I specialize in **game systems programming**, working on both **gameplay mechanics** and **visual systems** for **games** and **real-time animation projects** inside Unreal Engine.
+
+I have strong experience in **converting complex Blueprint logic into C++**, creating **procedural visual systems** (such as **vehicle suspension simulation**, **ground tracing**, and **component-based transformations**), and developing **performance-oriented solutions** for real-time projects.
+
+Besides gameplay systems, I also develop **reusable classes and modules** designed to help **technical artists** and **animators** control and visualize complex in-engine behaviors.
 
 <div style="display: inline_block"></div>
 
+## My Technological Approach 🖥️
 
- ##  My Technological Approach 🖥️
+My work is centered around building **efficient, scalable, and engine-friendly systems**, always ensuring that both **artistic vision** and **performance constraints** are respected.
 
-My journey in game development is marked by a passion for creating interactive and immersive experiences. I have solid experience in UI integration, developing intuitive interfaces that are not only functional but also enhance the player’s experience.
+I have solid experience with **Unreal Engine (C++)** for low-level programming, focusing on **visual component control**, **physics-based visual effects**, and **custom tools** for **technical teams**.
 
-In the multiplayer world, I use Photon to integrate network features and create games with robust multiplayer support, always seeking better performance and user experience.
+In Unity, I develop **gameplay systems** and **custom tools** in **C#**, aiming for flexibility and fast iteration.
 
-I’m passionate about creating engaging and challenging core gameplay mechanics, working from movement design to system balancing and interaction in games. I have experience with different game engines, with Unity and Unreal Engine being my main tools to bring vast worlds and unique gameplay to life.
+I also have experience with **multiplayer features**, using **Photon** to implement **network logic** and **real-time synchronization**, when needed.
 
-Every project is an opportunity to learn something new, and I’m always in search of improving my skills to create increasingly innovative and impactful games.
+Each project is an opportunity to **solve new technical challenges** and **refine my skills**, always focusing on delivering **robust and practical solutions** for real-time applications.
+
 
 
 <div style="display: inline_block"></div>
