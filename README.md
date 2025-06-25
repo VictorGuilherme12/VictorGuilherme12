@@ -30,15 +30,13 @@
 
 Liked what you saw? Feel free to download my resume for more details or contact me directly.
 
-<div style="display: flex; gap: 10px; align-items: center;">
-    <a href="https://drive.google.com/uc?export=download&amp;id=1cwpFidMGv3APWPGn6aSKTKsP61q8I2Gc">
+ <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
+    <a href="https://drive.google.com/uc?export=download&id=1cwpFidMGv3APWPGn6aSKTKsP61q8I2Gc">
         <img src="https://img.shields.io/badge/Resume_(PT--BR)-007ACC?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume in Portuguese">
     </a>
     <a href="https://drive.google.com/uc?export=download&id=17RYh0XUYCnTtMDlHFg0sT-PZ1beSenP1">
         <img src="https://img.shields.io/badge/Resume_(EN)-00A86B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume in English">
     </a>
-    
-   
 </div>
 
 <br>
