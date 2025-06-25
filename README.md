@@ -2,8 +2,7 @@
 [![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/vito0r___/)
 [![Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/victorguilhermesantos/)
 [![Steam](https://go-skill-icons.vercel.app/api/icons?i=steam)](https://steamcommunity.com/id/Japa20/)
-
-
+[Download My Resume](https://drive.google.com/uc?export=download&id=17RYh0XUYCnTtMDlHFg0sT-PZ1beSenP1)
 <div style="display: inline_block"></div>
 
 ## Technologies I Use in My Work ⌨️
@@ -27,7 +26,24 @@
 </div>
 
 
+## Resume & Contact
 
+Liked what you saw? Feel free to download my resume for more details or contact me directly.
+
+<div style="display: flex; gap: 10px; align-items: center;">
+    <a href="https://drive.google.com/uc?export=download&id=17RYh0XUYCnTtMDlHFg0sT-PZ1beSenP1">
+        <img src="https://img.shields.io/badge/Resume_(PT--BR)-007ACC?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume in Portuguese">
+    </a>
+    <a href="YOUR_LINK_TO_THE_ENGLISH_RESUME_HERE">
+        <img src="https://img.shields.io/badge/Resume_(EN)-00A86B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume in English">
+    </a>
+    
+   
+</div>
+
+<br>
+
+📧 **Contact Email:** contato.victorgs1@gmail.com
 
   <div style="display: inline_block"></div>
 
