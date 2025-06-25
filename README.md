@@ -34,7 +34,7 @@ Liked what you saw? Feel free to download my resume for more details or contact 
     <a href="https://drive.google.com/uc?export=download&amp;id=1cwpFidMGv3APWPGn6aSKTKsP61q8I2Gc">
         <img src="https://img.shields.io/badge/Resume_(PT--BR)-007ACC?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume in Portuguese">
     </a>
-    <a href="[YOUR_LINK_TO_THE_ENGLISH_RESUME_HERE](https://drive.google.com/uc?export=download&id=17RYh0XUYCnTtMDlHFg0sT-PZ1beSenP1)">
+    <a href="https://drive.google.com/uc?export=download&id=17RYh0XUYCnTtMDlHFg0sT-PZ1beSenP1">
         <img src="https://img.shields.io/badge/Resume_(EN)-00A86B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume in English">
     </a>
     
