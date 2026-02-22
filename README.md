@@ -14,7 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true">
   -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=VictorGuilherme12&langs_count=4&theme=radical&hide_border=true">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorGuilherme12&theme=radical">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorGuilherme12&theme=radical">
   
 </div> 
