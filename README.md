@@ -13,8 +13,10 @@
   <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=radical&show_icons=true&hide_border=true&layout=donut">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true">
   -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=VictorGuilherme12&langs_count=4&theme=radical&hide_border=true">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorGuilherme12&theme=radical">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorGuilherme12&theme=radical">
+  
 </div> 
 
 
@@ -76,14 +78,14 @@ Each project is an opportunity to **solve new technical challenges** and **refin
 
 <div style="display: inline_block"></div>
 
-<!--
+
 
 ## My favorite projects 📌
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=ReSize&theme=radical&">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorGuilherme12&repo=SplineCppClass&theme=radical&"> 
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=VictorGuilherme12&repo=SplineCppClass&theme=radical&hide_border=true">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=VictorGuilherme12&repo=BorderlessTool&theme=radical&hide_border=true">
 </div>
 
--->
+
 
