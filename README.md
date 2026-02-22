@@ -83,7 +83,7 @@ Each project is an opportunity to **solve new technical challenges** and **refin
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://github-stats-extended.vercel.app/api/pin?username=VictorGuilherme12&repo=SplineCppClass&theme=radical&hide_border=true">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=VictorGuilherme12&repo=BorderlessTool&theme=radical&hide_border=true">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=VictorGuilherme12&repo=VictorGuilherme12/BorderlessTool&description_lines_count=4&theme=radical&hide_border=true">
 </div>
 
 
