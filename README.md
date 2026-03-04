@@ -23,11 +23,11 @@ Game Systems Developer | Unreal Engine (C++) & Unity (C#)
 
 ## About Me 👋🏻
 
-Game developer focused on **Unreal Engine (C++)** and **Unity (C#)**.
+Game Systems Developer focused on Unreal Engine (C++) and Unity (C#).
 
-I specialize in **game systems programming**, building scalable gameplay and real-time systems with a strong focus on performance and clean architecture.
+I specialize in designing modular gameplay systems and real-time simulations, with strong emphasis on performance, scalability, and clean architecture.
 
-I work closely with gameplay, physics-driven visuals, and technical workflows that support artists and animation pipelines.
+My work centers on building robust technical foundations that support complex gameplay mechanics and production-ready systems.
 
 ---
 
