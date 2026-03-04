@@ -13,6 +13,7 @@ Game Systems Developer | Unreal Engine (C++) & Unity (C#)
         <img src="https://img.shields.io/badge/Resume_(EN)-00A86B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume in English">
     </a>
 
+
   📧 **Email:** contato.victorgs1@gmail.com
 </div>
 
@@ -70,3 +71,11 @@ I work closely with gameplay, physics-driven visuals, and technical workflows th
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorGuilherme12&theme=radical">
 <img src="src/laptop.gif" alt="Laptop animation" width="300" height="200"/>
 </div>
+
+
+<a href="https://VictorGuilherme12.pythonanywhere.com/link">
+  <img
+    src="https://VictorGuilherme12.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
