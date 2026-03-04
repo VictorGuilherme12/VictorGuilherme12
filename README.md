@@ -72,10 +72,3 @@ I work closely with gameplay, physics-driven visuals, and technical workflows th
 <img src="src/laptop.gif" alt="Laptop animation" width="300" height="200"/>
 </div>
 
-
-<a href="https://VictorGuilherme12.pythonanywhere.com/link">
-  <img
-    src="https://VictorGuilherme12.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a>
