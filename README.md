@@ -57,7 +57,7 @@ My work centers on building robust technical foundations that support complex ga
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=radical&show_icons=true&hide_border=true&layout=donut">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true&hide=uplugin,c/c,ini,xml,objective-c,c,markdown,other,json,gitconfig&langs_count=1">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true&hide=uplugin,c/c,ini,xml,objective-c,c,markdown,other,json,gitconfig&langs_count=2">
 </div>
 
 <div style="display: inline_block"></div>
