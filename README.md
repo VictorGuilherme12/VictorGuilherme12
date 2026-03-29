@@ -45,7 +45,7 @@ My work centers on building robust technical foundations that support complex ga
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://github-stats-extended.vercel.app/api/pin?username=VictorGuilherme12&repo=SplineCppClass&theme=radical&hide_border=true">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=VictorGuilherme12&repo=VictorGuilherme12/BorderlessTool&description_lines_count=4&theme=radical&hide_border=true">
+  <!--<img src="https://github-stats-extended.vercel.app/api/pin?username=VictorGuilherme12&repo=VictorGuilherme12/BorderlessTool&description_lines_count=4&theme=radical&hide_border=true">-->
 </div>
 
 ---
@@ -57,7 +57,7 @@ My work centers on building robust technical foundations that support complex ga
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGuilherme12&theme=radical&show_icons=true&hide_border=true&layout=donut">
-  <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true&langs_count=2"> -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGuilherme12&theme=radical&hide_border=true&langs_count=2"> 
 </div>
 
 <div style="display: inline_block"></div>
