@@ -16,7 +16,7 @@ Game Systems Developer | Unreal Engine (C++) & Unity (C#)
 
   📧 **Email:** contato.victorgs1@gmail.com
 
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vitorsantos358&count=5)
+ <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vitorsantos358&count=5) -->
 </div>
 
 ---
