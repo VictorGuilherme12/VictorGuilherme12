@@ -4,14 +4,14 @@ Game Systems Developer | Unreal Engine (C++) & Unity (C#)
 [![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/vito0r___/)
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/victorguilhermesantos/)
 
-<div style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start;">
+<!-- <div style="display: flex; flex-direction: column; gap: 10px; align-items: flex-start;">
     <a href="https://drive.google.com/uc?export=download&id=1cwpFidMGv3APWPGn6aSKTKsP61q8I2Gc">
         <img src="https://img.shields.io/badge/Resume_(PT--BR)-007ACC?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume in Portuguese">
     </a>
     <br>
     <a href="https://drive.google.com/uc?export=download&id=1-b-He6Hgu9WR7kVM1UYIi6nCNAoLO_Dr">
         <img src="https://img.shields.io/badge/Resume_(EN)-00A86B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume in English">
-    </a>
+    </a>  --> 
 
 
   📧 **Email:** contato.victorgs1@gmail.com
